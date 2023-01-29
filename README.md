@@ -48,3 +48,4 @@ Use the `BLANK_README.md` to get started.
 
 ![Screenshot](image_wishlist.png)
 ![Alt text](shamo-ecommerce-flutter/assets/image_wishlist.png?raw=true "Title")
+![plot](./shamo-ecommerce-flutter/assets/image_wishlist.png)
