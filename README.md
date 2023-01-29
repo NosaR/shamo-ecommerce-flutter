@@ -5,6 +5,6 @@ Shamo is an ecommerce using Dart programing language that sell much brand shoes,
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Link for Description
+Link for Description : 
 https://nozzh.notion.site/Shamo-Boots-Ecommerce-App-955a66727cc042e896251d1605cd7ce5
 
