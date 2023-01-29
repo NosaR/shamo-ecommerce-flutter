@@ -47,4 +47,4 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ![Screenshot](image_wishlist.png)
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](shamo-ecommerce-flutter/assets/image_wishlist.pngraw=true "Title")
